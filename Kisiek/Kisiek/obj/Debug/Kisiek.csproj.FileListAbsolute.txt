@@ -1,0 +1,6 @@
+C:\Automaty\Kisiek\Kisiek\bin\Debug\Kisiek.exe.config
+C:\Automaty\Kisiek\Kisiek\bin\Debug\Kisiek.exe
+C:\Automaty\Kisiek\Kisiek\bin\Debug\Kisiek.pdb
+C:\Automaty\Kisiek\Kisiek\obj\Debug\Kisiek.csprojResolveAssemblyReference.cache
+C:\Automaty\Kisiek\Kisiek\obj\Debug\Kisiek.exe
+C:\Automaty\Kisiek\Kisiek\obj\Debug\Kisiek.pdb
